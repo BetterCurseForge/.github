@@ -6,4 +6,4 @@ It is currently unavailable.
 
 ## Preview
 
-![Preview 0](./preview_0.png)
+![Preview](https://raw.githubusercontent.com/BetterCurseForge/.github/main/profile/preview.webp)
